@@ -137,7 +137,7 @@ export default function Services() {
           style={{
             fontFamily: "var(--font-syne), sans-serif",
             fontSize: "clamp(2rem, 5vw, 3rem)",
-            fontWeight: 800,
+            fontWeight: 600,
             letterSpacing: "-1px",
             color: "var(--text-primary)",
             maxWidth: "480px",

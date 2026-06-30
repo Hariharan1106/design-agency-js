@@ -115,7 +115,7 @@ export default function Hero() {
           style={{
             fontFamily: "var(--font-syne), sans-serif",
             fontSize: "clamp(2.8rem, 8vw, 5.5rem)",
-            fontWeight: 800,
+            fontWeight: 500,
             lineHeight: 1.05,
             letterSpacing: "-2px",
             marginBottom: "24px",
@@ -230,7 +230,7 @@ export default function Hero() {
                 style={{
                   fontFamily: "var(--font-syne), sans-serif",
                   fontSize: "clamp(1.6rem, 4vw, 2.4rem)",
-                  fontWeight: 800,
+                  fontWeight: 500,
                   color: "var(--text-primary)",
                   letterSpacing: "-1px",
                 }}

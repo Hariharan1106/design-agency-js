@@ -79,7 +79,7 @@ export default function Contact() {
           style={{
             fontFamily: "var(--font-syne), sans-serif",
             fontSize: "clamp(2rem, 5vw, 3rem)",
-            fontWeight: 800,
+            fontWeight: 500,
             letterSpacing: "-1px",
             color: "var(--text-primary)",
             lineHeight: 1.15,
